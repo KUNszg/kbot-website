@@ -1,23 +1,23 @@
 * {
-    font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 
 body {
-    background-color: #1a1a1a;
+  background-color: #1a1a1a;
 }
 
 .container {
-    vertical-align: middle;
-    text-align: center;
-    margin-top: 10%;
+  vertical-align: middle;
+  text-align: center;
+  margin-top: 10%;
 }
 
 .labelbox {
-    color: lightgray;
+  color: lightgray;
 }
 
 .textbox {
-    text-align: center;
-    background-color: lightgray;
-    border: solid lightgray 4px;
+  text-align: center;
+  background-color: lightgray;
+  border: solid lightgray 4px;
 }

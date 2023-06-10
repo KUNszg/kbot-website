@@ -2,9 +2,10 @@
   font-family: "Noto Sans", sans-serif;
 }
 
-html, body {
-    margin: 0;
-    height: 100%;
+html,
+body {
+  margin: 0;
+  height: 100%;
 }
 
 img {
@@ -12,7 +13,7 @@ img {
 }
 
 .blockscroll {
-    overflow-y: hidden;
+  overflow-y: hidden;
 }
 
 .logo {
@@ -59,28 +60,29 @@ img {
 }
 
 .footer {
-    text-align: center;
-    font-size: 12px;
-    font-weight: 700;
-    font-family: 'Noto Sans', sans-serif;
-    position: fixed;
-    text-align: center;
-    bottom: 1%;
-    width: 100%;
-    color: #666666;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: "Noto Sans", sans-serif;
+  position: fixed;
+  text-align: center;
+  bottom: 1%;
+  width: 100%;
+  color: #666666;
 }
 
-textarea:focus, input:focus {
-    outline: none;
+textarea:focus,
+input:focus {
+  outline: none;
 }
 
 *:focus {
-    outline: none;
+  outline: none;
 }
 
 #cf img {
-  position:absolute;
-  left:0;
+  position: absolute;
+  left: 0;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
@@ -88,6 +90,5 @@ textarea:focus, input:focus {
 }
 
 #cf img.top:hover {
-  opacity:0;
+  opacity: 0;
 }
-
